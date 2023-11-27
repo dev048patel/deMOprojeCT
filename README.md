@@ -1,2 +1,2 @@
 # deMOprojeCT
-My first Git hub project
+My first Git hub repository
